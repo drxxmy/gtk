@@ -66,9 +66,9 @@ index 00000000..4ff0da0d
 +$grey-500: red;
 +$grey-550: red;
 +$grey-600: red;
-+$grey-650: #313244;
-+$grey-700: #1e1e2e;
-+$grey-750: #181825;
++$grey-650: #000000;
++$grey-700: #020202;
++$grey-750: #000000;
 +$grey-800: #11111b;
 +$grey-850: #020202;
 +$grey-900: #010101;
@@ -78,7 +78,7 @@ index 00000000..4ff0da0d
 +$white: #eff1f5;
 +
 +// Black
-+$black: #11111b;
++$black: #000000;
 +
 +// Button
 +$button-close: #f38ba8;

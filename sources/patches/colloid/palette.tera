@@ -108,7 +108,7 @@ index 00000000..4ff0da0d
 +$white: #eff1f5;
 +
 +// Black
-+$black: #11111b;
++$black: #000000;
 +
 +// Button
 +$button-close: #{{ palette.red.hex }};
